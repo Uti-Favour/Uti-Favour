@@ -5,9 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Uti Favour</h1>
 <h3 align="center">I am passionate about building world class solutions.</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
-</p>
+<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
 
 
 
