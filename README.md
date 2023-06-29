@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Uti Favour</h1>
-<h3 align="center">I'm Uti Favour, a problem solver passionate about leveraging technology to make a positive impact. 🌍</h3>
+<h3 align="center">I'm a problem solver passionate about leveraging technology to make a positive impact. 🌍</h3>
 <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
 
 
