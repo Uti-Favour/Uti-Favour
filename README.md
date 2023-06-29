@@ -1,6 +1,11 @@
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4e/b7/dc/4eb7dcafe6fc50cb108716d959cec508.gif" alt="Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Uti Favour</h1>
 <h3 align="center">I am passionate about building world class solutions.</h3>
-<img align"left"alt="Coding" width=100%" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 
 <p align="left"> <a href="https://twitter.com/utifavour71761" target="blank"><img src="https://img.shields.io/twitter/follow/utifavour71761?logo=twitter&style=for-the-badge" alt="utifavour71761" /></a> </p>
