@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4e/b7/dc/4eb7dcafe6fc50cb108716d959cec508.gif" alt="Banner">
+  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Uti Favour</h1>
