@@ -3,8 +3,8 @@
   <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Uti Favour</h1>
-<h3 align="center">I am passionate about building world class solutions.</h3>
+<h1 align="center">Hi there! 👋 I'm Uti Favour</h1>
+<h3 align="center">I'm Uti Favour, a problem solver passionate about leveraging technology to make a positive impact. 🌍</h3>
 <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
 
 
@@ -13,17 +13,21 @@
 
 <p align="left"> <a href="https://twitter.com/favour71761" target="blank"><img src="https://img.shields.io/twitter/follow/favour71761?logo=twitter&style=for-the-badge" alt="favour71761" /></a> </p>
 
-- 🔭 I’m currently working on **my products.**
+🔭 Currently **working on my own products.**
 
-- 🌱 I’m currently learning **Full stack development**
+🌱 Learning **full stack development to broaden my skills.**
 
-- 👯 I’m looking to collaborate on **any project**
+👯 Open to **collaborating on exciting projects.**
 
-- 💬 Ask me about **Javascript and Python**
+💬 Ask me about **JavaScript and Python.**
 
-- 📫 How to reach me **utifavour15@gmail.com**
+🎯 Vision: **Using AI, software, and engineering to solve global challenges.**
 
-- ⚡ Fun fact **I love solving problems**
+📫 Reach me at utifavour15@gmail.com.
+
+⚡ Fun fact: **I love solving problems!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
