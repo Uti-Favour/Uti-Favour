@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi 👋, I'm Uti Favour</h1>
 <h3 align="center">I am passionate about building world class solutions.</h3>
-<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 
-<p align="left"> <a href="https://twitter.com/utifavour71761" target="blank"><img src="https://img.shields.io/twitter/follow/utifavour71761?logo=twitter&style=for-the-badge" alt="utifavour71761" /></a> </p>
+<p align="left"> <a href="https://twitter.com/utifavour71761" target="blank"><img src="https://img.shields.io/twitter/follow/utifavour71761?logo=twitter&style=for-the-badge" alt="favour71761" /></a> </p>
 
 - 🔭 I’m currently working on **my products.**
 
