@@ -5,7 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm Uti Favour</h1>
 <h3 align="center">I am passionate about building world class solutions.</h3>
-<img align="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
+<p align="right">
+  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
+</p>
+
+
+
 
 
 <p align="left"> <a href="https://twitter.com/favour71761" target="blank"><img src="https://img.shields.io/twitter/follow/favour71761?logo=twitter&style=for-the-badge" alt="favour71761" /></a> </p>
