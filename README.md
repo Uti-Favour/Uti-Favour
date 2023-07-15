@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/favour71761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="favour71761" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uti favour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uti favour" height="30" width="40" /></a>
-<a href="https://medium.com/@uti favour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uti favour" height="30" width="40" /></a>
+<
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
