@@ -17,7 +17,7 @@
 
 🌱 Learning **full stack development to broaden my skills.**
 
-👯 Open to **collaborating on exciting projects.**
+👯 Open to  **collaborating on exciting projects.**
 
 💬 Ask me about **JavaScript and Python.**
 
