@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Banner">
-</p>
 
 <h1 align="center">Hi there! 👋 I'm Uti Favour</h1>
 <h3 align="center">I'm a problem solver passionate about leveraging on technology to make a positive impact. 🌍</h3>
