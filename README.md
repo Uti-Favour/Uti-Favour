@@ -1,7 +1,7 @@
 
 
-<h1 align="center">In a world were everyone compete and compare, i strive and grow in silence to shift a generation </h1>
-<h3 align="center">I'm a problem solver passionate about leveraging on technology to make a positive impact. 🌍</h3>
+<h2 align="center">Amidst the noise, I cultivate change in quiet growth, charting a new course for generations.🌱🌍 </h2>
+<h4 align="center">Beyond a mere developer, I craft codes and algorithms that mold generations to come. My keystrokes weave the fabric of tomorrow's possibilities.🌍</h4>
 <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
 
 
