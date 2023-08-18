@@ -2,7 +2,7 @@
 
 <h2 align="center">Amidst the noise, I cultivate change in quiet growth, charting a new course for generations.🌱🌍 </h2>
 <h4 align="center">Beyond a mere developer, I craft codes and algorithms that mold generations to come. My keystrokes weave the fabric of tomorrow's possibilities.🌍</h4>
-<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f3/31/8cf331d38e2434a57d3fa7710ed5f10e.gif">
+<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/79/c7/ab79c75eca6e649b75bbefe3ca699715.gif">
 
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/favour71761" target="blank"><img src="https://img.shields.io/twitter/follow/favour71761?logo=twitter&style=for-the-badge" alt="favour71761" /></a> </p>
 
-🔭 Currently **working on my own products.**
+🔭 Currently **working on my own projects.**
 
 🌱 Learning **full stack development to broaden my skills.**
 
