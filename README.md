@@ -2,7 +2,7 @@
 
 <h2 align="center">Amidst the noise, I cultivate change in quiet growth, charting a new course for generations.🌱🌍 </h2>
 <h4 align="center">Beyond a mere developer, I craft codes and algorithms that mold generations to come. My keystrokes weave the fabric of tomorrow's possibilities.🌍</h4>
-<img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/79/c7/ab79c75eca6e649b75bbefe3ca699715.gif">
+
 
 
 
