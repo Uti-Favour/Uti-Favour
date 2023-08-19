@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Amidst the noise, I cultivate change in quiet growth, charting a new course for generations.🌱🌍 </h2>
-<h4 align="center">Beyond a mere developer, I craft codes and algorithms that mold generations to come. My keystrokes weave the fabric of tomorrow's possibilities.🌍</h4>   <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<h4 align="center">Beyond a mere developer, I craft codes and algorithms that mold generations to come. My keystrokes weave the fabric of tomorrow's possibilities.🌍</h4>   <img align="right"alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 
 
