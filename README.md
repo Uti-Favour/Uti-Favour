@@ -15,15 +15,13 @@
 
 🌱 Learning **full stack development to broaden my skills.**
 
-👯 Open to  **collaborating on exciting projects.**
-
-💬 Ask me about **JavaScript and Python.**
+💬 Ask me about **React.Js and TailwindCSS.**
 
 🎯 Vision: **Using AI, software, and engineering to solve global challenges.**
 
 📫 Reach me at utifavour15@gmail.com.
 
-⚡ Fun fact: **I love solving problems!**
+⚡ Fun fact: **I love Jesus**
 
 
 
